@@ -1,0 +1,29 @@
+.navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 25px;
+  font-size: 10px;
+  font-family: 'Josefin Slab', serif;
+  background-color: #484848;
+}
+
+.navbar a {
+  color: white;
+  text-decoration: none;
+}
+
+.navbar a:hover {
+  color: #989898;
+}
+
+.david-tenenbaum a {
+  margin: 10px;
+}
+
+.about-projects-contact a {
+  margin: 10px;
+}

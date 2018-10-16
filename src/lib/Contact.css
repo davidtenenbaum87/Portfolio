@@ -1,0 +1,10 @@
+.contact {
+  margin: 40px;
+  font-family: 'Cinzel', serif;
+  display: flex;
+  justify-content: center;
+}
+
+.icon {
+  margin: 10px;
+}
