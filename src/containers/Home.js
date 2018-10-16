@@ -6,7 +6,9 @@ class Home extends Component {
   render() {
     return (
       <div className="david-tenenbaum">
-        <img src="./david-tenenbaum-photo-5.JPG" class="photo"/>
+        <div className="david-tenenbaum-photo">
+          <img src="./david-tenenbaum-photo-5.jpg" />
+        </div>
       </div>
     )
   }

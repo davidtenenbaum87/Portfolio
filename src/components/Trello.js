@@ -12,7 +12,7 @@ class Trello extends Component {
             <p>Inspired by Trello.com, this is a fun, flexible and friendly way to organize plans, projects and more</p>
           </div>
           <div className="trello-vimeo">
-            <iframe src="https://player.vimeo.com/video/288975230" width="320" height="200" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+            <iframe src="https://player.vimeo.com/video/288975230" width="620" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
           </div>
       </div>
     )

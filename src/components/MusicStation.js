@@ -14,7 +14,7 @@ class MusicStation extends Component {
             practicing and a calendar for schedule management</p>
           </div>
           <div className="music-station-vimeo">
-            <iframe src="https://player.vimeo.com/video/288988954" width="320" height="200" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+            <iframe src="https://player.vimeo.com/video/288988954" width="620" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
           </div>
       </div>
     )
