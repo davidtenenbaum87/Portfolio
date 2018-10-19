@@ -1,18 +1,14 @@
 body {
   margin: 0;
   padding: 0;
+  height: 100%;
   color: #484848;
   font-family: 'Cinzel', serif;
+  display: flex;
+  flex-direction: column;
 }
 
-.david-tenenbaum-photo  {
-  height: 100%;
-  width: 100%;
-  /* overflow: hidden; */
-}
-
-.david-tenenbaum-photo img {
-  width: 100%;
-  height: auto;
-  overflow: hidden;
+.david-tenenbaum-home {
+  display: flex;
+  flex-direction: column;
 }

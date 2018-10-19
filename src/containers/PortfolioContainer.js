@@ -2,14 +2,14 @@ import React, { Component } from 'react';
 import Boggle from '../components/Boggle.js';
 import Trello from '../components/Trello.js';
 import MusicStation from '../components/MusicStation.js';
-import '../lib/Projects.css';
+import '../lib/Portfolio.css';
 
-class ProjectsContainer extends Component {
+class PortfolioContainer extends Component {
 
   render() {
     return (
-      <div className="projects">
-        <h1>Projects</h1>
+      <div className="portfolio">
+        <h1>Portfolio</h1>
         <MusicStation/>
         <Boggle/>
         <Trello/>
@@ -18,4 +18,4 @@ class ProjectsContainer extends Component {
   }
 }
 
-export default ProjectsContainer;
+export default PortfolioContainer;

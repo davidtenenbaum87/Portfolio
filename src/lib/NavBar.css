@@ -12,18 +12,11 @@
 }
 
 .navbar a {
+  margin: 10px;
   color: white;
   text-decoration: none;
 }
 
 .navbar a:hover {
   color: #989898;
-}
-
-.david-tenenbaum a {
-  margin: 10px;
-}
-
-.about-projects-contact a {
-  margin: 10px;
 }

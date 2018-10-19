@@ -9,11 +9,11 @@ class NavBar extends Component {
     return (
       <div className="navbar">
         <div className="david-tenenbaum">
-          <NavLink to="/">David Tenenbaum</NavLink>
+          <NavLink to="/">David Tenenbaum // Full Stack Web Developer</NavLink>
         </div>
           <div className="about-projects-contact">
           <NavLink to="/about">About</NavLink>
-          <NavLink to="/projects">Projects</NavLink>
+          <NavLink to="/portfolio">Portfolio</NavLink>
           <NavLink to="./david-tenenbaum-resume.pdf" target="_blank">Resume</NavLink>
           <NavLink to="/contact">Contact</NavLink>
           </div>
