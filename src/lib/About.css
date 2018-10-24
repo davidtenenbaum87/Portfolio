@@ -3,19 +3,22 @@
   height: 100%;
 }
 
-.about h1 {
-  display: flex;
-  justify-content: center;
-  font-size: 30px;
-}
-
 .about-content {
   display: flex;
   flex-direction: row;
 }
 
-.about-content img {
-  height: 400px;
+.about h1 {
+  display: flex;
+  justify-content: center;
+  font-family: 'Cinzel', serif;
+  font-size: 30px;
+}
+
+.about p {
+  margin: 0;
+}
+
+.about img {
   margin-right: 40px;
-  border-radius: 50%;
 }

@@ -7,7 +7,8 @@ class Contact extends Component {
   render() {
     return (
       <div className="contact">
-        <h1>Please visit my LinkedIn/GitHub/Facebook page or send an email to learn more about me</h1>
+        <h1>Contact</h1>
+        <p>Please visit my LinkedIn/GitHub/Facebook page or send an email to learn more about me</p>
         <div className="social-links">
           <SocialIcon url="https://www.linkedin.com/in/davidtenenbaum87/" className="icon" />
           <SocialIcon url="https://github.com/davidtenenbaum87" className="icon" />

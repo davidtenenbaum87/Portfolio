@@ -9,13 +9,13 @@ class Boggle extends Component {
           <iframe src="https://player.vimeo.com/video/288186446" width="620" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
         </div>
           <div className="boggle-links">
-            <h1>Boggle</h1>
+            <h2 style={{"textDecoration": "underline"}}>Boggle</h2>
             <a href="https://davidtenenbaum87.github.io/boggle-frontend/" target="_blank">Demo</a>
             <a href="https://github.com/davidtenenbaum87/boggle-frontend" target="_blank">Front End</a>
             <a href="https://github.com/davidtenenbaum87/boggle-backend" target="_blank">Back End</a>
             <p>Word game played using a grid of lettered dice, in which players attempt to find words in sequences of adjacent letters</p>
-            <p>Front-End: JavaScript</p>
-            <p>Back-End: Rails API</p>
+            <p><strong>Front-End:</strong> JavaScript</p>
+            <p><strong>Back-End:</strong> Rails API</p>
           </div>
       </div>
     )
