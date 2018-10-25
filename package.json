@@ -2,7 +2,7 @@
   "name": "my-website",
   "version": "0.1.0",
   "private": true,
-  "homepage" : "https://davidtenenbaum87.github.io/Portfolio/",
+  "homepage": "https://davidtenenbaum87.github.io/Portfolio/",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.6",
     "@fortawesome/free-brands-svg-icons": "^5.4.1",
@@ -18,7 +18,8 @@
     "react-router-dom": "^4.3.1",
     "react-scripts": "2.0.4",
     "react-social-icons": "^3.0.0",
-    "react-sticky-footer": "0.1.0-rc3"
+    "react-sticky-footer": "0.1.0-rc3",
+    "yarn-install": "^1.0.0"
   },
   "scripts": {
     "start": "react-scripts start",

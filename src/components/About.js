@@ -7,7 +7,7 @@ class About extends Component {
       <div className="about">
         <h1>About</h1>
         <div className="about-content">
-          <img src="./david-tenenbaum-photo.JPG" alt="david-tenenbaum"/>
+          <img src="./david-tenenbaum.JPG" alt="david-tenenbaum"/>
           <div className="about-text">
           <p>I am David Tenenbaum, a full-stack web developer and a professional musician. I was born and raised in Tel-Aviv, Israel in a musicial home and at 12 years old I picked up the double-bass. I immediately fell in-love. Fast forward, in 2013 I graduated from
           <a href="https://www.google.com/search?q=juilliard&rlz=1C5CHFA_enUS775US776&oq=juilliard&aqs=chrome.0.0j69i60j0j69i60l2j0.910j0j4&sourceid=chrome&ie=UTF-8" target="_blank" alt="The Juilliard School">The Juilliard School</a>
