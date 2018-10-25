@@ -2,6 +2,10 @@
   "name": "my-website",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "10.7.0",
+    "npm": "6.1.0"
+  },
   "homepage": "https://davidtenenbaum87.github.io/Portfolio/",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.6",
